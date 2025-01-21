@@ -22,7 +22,8 @@ This project provides an interactive Excel dashboard for managing and analyzing 
 
 ## Screenshots
 - Here are some screenshots showcasing the dashboard:
-![Dashboard Overview](Screenshot Dashboard.png)
+![Uploading Screenshot 2025-01-21 111807.png…]()
+
 
 
 
