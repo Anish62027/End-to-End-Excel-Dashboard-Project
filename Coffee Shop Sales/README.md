@@ -22,7 +22,8 @@ This project provides an interactive Excel dashboard for managing and analyzing 
 
 ## Screenshots
 - Here are some screenshots showcasing the dashboard:
-![https://github.com/Anish62027/End-to-End-Excel-Dashboard-Project/blob/main/Coffee%20Shop%20Sales/Screenshot%20.png]()
+- End-to-End-Excel-Dashboard-Project/Coffee Shop Sales
+/Screenshot .png
 
 
 
