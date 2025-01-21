@@ -20,6 +20,12 @@ This project provides an interactive Excel dashboard for managing and analyzing 
 2. Open the provided Excel workbook (`Coffee_Shop_Sales.xlsx`).
 3. Explore the dashboard, interact with the data, and generate insights.
 
+## Screenshots
+- Here are some screenshots showcasing the dashboard:
+
+## Dashboard Overview
+
+
 ## Installation
 No installation is required. Simply open the Excel workbook to get started.
 
